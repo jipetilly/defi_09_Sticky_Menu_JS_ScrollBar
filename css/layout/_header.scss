@@ -1,0 +1,36 @@
+html,
+body {
+    
+    width: 100%;
+    font-family: "Patua One", cursive;
+}
+
+
+
+body {
+    position: relative;
+}
+
+header {
+    height: 100vh;
+    width: 100%;
+    background: url(../img/672745.jpg) no-repeat center/cover;
+}
+
+
+main {
+    max-width: 1024px;
+    margin: 30px auto;
+    padding: 0 50px;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: 30px auto;
+}
+
+p {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+}
